@@ -21,7 +21,7 @@ This is a simple web-based application that identifies the Moroccan region for a
 3. Enter a valid Moroccan CNIE to identify the region.
 
 ## Demo
-You can try the application [here](#).
+You can try the application [here](https://taher-el-mehdi.github.io/moroccan-cnie-region-finder/).
 
 ## Contributing
 Contributions are welcome! Follow these steps to contribute:
